@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ahlzx1.koi888.sbs/sitemap.xml
